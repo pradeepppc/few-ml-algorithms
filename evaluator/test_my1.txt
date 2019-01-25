@@ -1,0 +1,17 @@
+../dataset/005_011.jpg
+../dataset/005_012.jpg
+../dataset/005_013.jpg
+../dataset/005_014.jpg
+../dataset/005_015.jpg
+../dataset/005_016.jpg
+../dataset/000_011.jpg
+../dataset/000_012.jpg
+../dataset/000_013.jpg
+../dataset/000_014.jpg
+../dataset/000_015.jpg
+../dataset/002_011.jpg
+../dataset/002_012.jpg
+../dataset/002_013.jpg
+../dataset/002_014.jpg
+../dataset/002_015.jpg
+../dataset/002_016.jpg

@@ -1,0 +1,9 @@
+./dataset/000_001.jpg
+./dataset/000_005.jpg
+./dataset/002_001.jpg
+./dataset/002_018.jpg
+./dataset/002_026.jpg
+./dataset/005_032.jpg
+./dataset/005_016.jpg
+./dataset/005_014.jpg
+./dataset/004_019.jpg
